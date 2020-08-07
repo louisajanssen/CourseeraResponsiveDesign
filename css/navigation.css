@@ -39,6 +39,7 @@ nav a{
         min-width: 125px;
         margin-right: 15px;
         height: 110vh;
+        float: left;
     }
 
     nav a{
