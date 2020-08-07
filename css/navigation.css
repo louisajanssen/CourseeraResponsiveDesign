@@ -40,4 +40,14 @@ nav a{
         margin-right: 15px;
         height: 110vh;
     }
+
+    nav a{
+        display: block;
+        line-height: 45px;
+        height: 45px;
+        color: #FFFFFF;
+        background-color: #486802;
+        text-decoration: none;
+        padding-left: 5px;
+    }
 }
